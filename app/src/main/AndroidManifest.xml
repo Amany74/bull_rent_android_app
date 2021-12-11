@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bull_rent_app">
         <activity
-            android:name=".dashboard"
+            android:name=".Login"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
